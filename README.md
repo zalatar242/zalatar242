@@ -1,7 +1,6 @@
 # Hi, I'm Sree 👋
 <!-- profile readme -->
 
-
 🎯 **Fintech × AI × web3 builder** | 🏆 **ETHGlobal hackathon shipper**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -15,6 +14,8 @@
 
 > Shipping products at the intersection of finance, AI, and web3. Usually starts as an ETHGlobal hackathon project and grows from there — the blockchain should be invisible to the user.
 
+🌿 **[Minty](https://github.com/zalatar242/minty)** — privacy-first personal CRM. Pulls your WhatsApp, Gmail, LinkedIn, Telegram, and SMS into one searchable local database. Self-hosted, nothing leaves your machine. AGPL-3.0.
+
 ## Current Projects
 
 - 💳 **[Folio](https://github.com/zalatar242/folio)** — 0% interest credit line backed by your stocks; zero-cost collars on Hedera via Chainlink CRE
@@ -27,7 +28,6 @@
 
 - 🚚 **TruckShield** — AI-powered trucking insurance policy analysis; upload a PDF, get plain-English exclusion breakdowns and side-by-side quote comparisons
 - 🎯 **dealflow** — EU company sourcing and cold outreach pipeline
-- 🧠 **personal-crm** — Contact management with AI semantic memory, warm-intro generation, and automatic enrichment
 - ⚖️ **dot-hedge-bot** — Automated Polkadot DOT vesting hedge; converts to USDC daily on Asset Hub with optional Hyperliquid protection
 - 💼 **AnalystOS** — Workflow automation for investment operations teams
 
