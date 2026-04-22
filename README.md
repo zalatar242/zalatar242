@@ -9,11 +9,8 @@ I build at the intersection of **fintech, AI, and web3** — usually shipped fir
 **[Folio](https://github.com/zalatar242/folio)** &nbsp;·&nbsp; 0% interest credit line backed by your stocks
 Borrow against your portfolio without selling. Zero-cost collars priced in real time via Chainlink CRE + Data Streams, settled on Hedera. Neobank-style UX — the blockchain is invisible plumbing.
 
-**[ETHGlobal Explorer](https://github.com/zalatar242/ethglobal-explorer)** &nbsp;·&nbsp; Search across every ETHGlobal hackathon project
-38k views, 920 users, 300 bookmarks in the first 3 days.
-
 **[LLM Accounting](https://github.com/zalatar242/llm-accounting)** &nbsp;·&nbsp; AI cost attribution system
-Production-ready tracking across OpenAI, Anthropic, Google, and OpenRouter with x402-style verifiable receipts and real-time cost attribution per customer, feature, and workflow.
+Per-customer, per-feature, per-workflow cost tracking across OpenAI, Anthropic, Google, and OpenRouter with verifiable receipts.
 
 **[HumanOS](https://github.com/zalatar242/HumanOS)** &nbsp;·&nbsp; A marketplace for the robotics data bottleneck
 Humans earn passive income uploading POV videos of day-to-day actions; humanoid robots learn from the dataset.
@@ -23,6 +20,18 @@ Risk-stratified coverage with senior/junior tranches.
 
 **[Dynamic Pricing](https://github.com/zalatar242/dynamic_pricing)** &nbsp;·&nbsp; Deliveroo Orders API webhook + pricing analysis
 Order management + Jupyter notebooks measuring the impact of dynamic pricing on delivery orders.
+
+---
+
+#### Private projects
+
+Closed source, but worth mentioning:
+
+- **TruckShield** &nbsp;·&nbsp; AI-powered trucking insurance policy analysis — upload a policy PDF, get plain-English exclusion/coverage breakdowns and side-by-side quote comparisons.
+- **dealflow** &nbsp;·&nbsp; EU company sourcing and outreach pipeline.
+- **personal-crm** &nbsp;·&nbsp; Contact management backend with AI semantic memory, warm-intro generation, and automatic contact enrichment.
+- **dot-hedge-bot** &nbsp;·&nbsp; Automated hedge for Polkadot DOT vesting — converts vested DOT to USDC daily on Asset Hub with optional Hyperliquid hedging.
+- **AnalystOS** &nbsp;·&nbsp; Workflow automation for investment operations teams.
 
 ---
 
