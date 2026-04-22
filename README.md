@@ -1,34 +1,33 @@
 # Hi, I'm Sree 👋
 <!-- profile readme -->
 
-🎯 **Fintech × AI × web3 builder** | 🏆 **ETHGlobal hackathon shipper**
+⚡ **Full-stack engineer** | 🧠 **Shipping AI-native products**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Hedera](https://img.shields.io/badge/-Hedera-000000?style=flat-square&logo=hedera-hashgraph&logoColor=white)
-![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-> Shipping products at the intersection of finance, AI, and web3. Usually starts as an ETHGlobal hackathon project and grows from there — the blockchain should be invisible to the user.
-
-🌿 **[Minty](https://github.com/zalatar242/minty)** — privacy-first personal CRM. Pulls your WhatsApp, Gmail, LinkedIn, Telegram, and SMS into one searchable local database. Self-hosted, nothing leaves your machine. AGPL-3.0.
+> Building real products end-to-end — from API backends to production UIs — with AI as a first-class building block. Small iterations, real users, code in prod.
 
 ## Current Projects
 
-- 💳 **[Folio](https://github.com/zalatar242/folio)** — 0% interest credit line backed by your stocks; zero-cost collars on Hedera via Chainlink CRE
-- 🧮 **[LLM Accounting](https://github.com/zalatar242/llm-accounting)** — Per-customer, per-feature, per-workflow cost tracking across OpenAI, Anthropic, Google, OpenRouter
-- 🤖 **[HumanOS](https://github.com/zalatar242/HumanOS)** — Marketplace for humans to earn by uploading POV training data for humanoid robots
-- 🛡️ **[CoverMax](https://github.com/zalatar242/CoverMax-DeFi)** — Tranched DeFi insurance protocol on Polkadot Asset Hub
-- 📊 **[Dynamic Pricing](https://github.com/zalatar242/dynamic_pricing)** — Deliveroo Orders API webhook + Jupyter notebooks measuring pricing impact
+- 🌿 **[Minty](https://github.com/zalatar242/minty)** — Privacy-first personal CRM. Unifies WhatsApp, Gmail, LinkedIn, Telegram, and SMS into one searchable local database. Self-hosted; nothing leaves your machine.
+- 💳 **[Folio](https://github.com/zalatar242/folio)** — 0% interest credit line backed by your stocks. Neobank-style UX with real-time collar pricing.
+- 🧮 **[LLM Accounting](https://github.com/zalatar242/llm-accounting)** — Per-customer, per-feature, per-workflow cost tracking across OpenAI, Anthropic, Google, and OpenRouter.
+- 🤖 **[HumanOS](https://github.com/zalatar242/HumanOS)** — Marketplace where humans earn by contributing POV training data for humanoid robotics.
+- 🛡️ **[CoverMax](https://github.com/zalatar242/CoverMax-DeFi)** — Tranched insurance protocol with senior/junior risk allocation.
+- 📊 **[Dynamic Pricing](https://github.com/zalatar242/dynamic_pricing)** — Deliveroo Orders API webhook + Jupyter notebooks measuring the revenue impact of dynamic pricing.
 
 ### Closed Source
 
 - 🚚 **TruckShield** — AI-powered trucking insurance policy analysis; upload a PDF, get plain-English exclusion breakdowns and side-by-side quote comparisons
 - 🎯 **dealflow** — EU company sourcing and cold outreach pipeline
-- ⚖️ **dot-hedge-bot** — Automated Polkadot DOT vesting hedge; converts to USDC daily on Asset Hub with optional Hyperliquid protection
+- ⚖️ **dot-hedge-bot** — Automated hedging bot that converts vested assets to USD stablecoin daily with optional derivatives protection
 - 💼 **AnalystOS** — Workflow automation for investment operations teams
 
 ## GitHub Activity
