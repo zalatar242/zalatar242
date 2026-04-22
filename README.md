@@ -1,7 +1,7 @@
 # Hi, I'm Sree 👋
 <!-- profile readme -->
 
-⚡ **Full-stack engineer** | 🧠 **Shipping AI-native products**
+⚡ **Full-stack founder** | 🧠 **Shipping AI-native products**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -12,23 +12,23 @@
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-> Building real products end-to-end — from API backends to production UIs — with AI as a first-class building block. Small iterations, real users, code in prod.
+> Building real products end to end, from API backends to production UIs, with AI as a first class building block. Small iterations, real users, code in prod.
 
 ## Current Projects
 
-- 🌿 **[Minty](https://github.com/zalatar242/minty)** — Privacy-first personal CRM. Unifies WhatsApp, Gmail, LinkedIn, Telegram, and SMS into one searchable local database. Self-hosted; nothing leaves your machine.
-- 💳 **[Folio](https://github.com/zalatar242/folio)** — 0% interest credit line backed by your stocks. Neobank-style UX with real-time collar pricing.
-- 🧮 **[LLM Accounting](https://github.com/zalatar242/llm-accounting)** — Per-customer, per-feature, per-workflow cost tracking across OpenAI, Anthropic, Google, and OpenRouter.
-- 🤖 **[HumanOS](https://github.com/zalatar242/HumanOS)** — Marketplace where humans earn by contributing POV training data for humanoid robotics.
-- 🛡️ **[CoverMax](https://github.com/zalatar242/CoverMax-DeFi)** — Tranched insurance protocol with senior/junior risk allocation.
-- 📊 **[Dynamic Pricing](https://github.com/zalatar242/dynamic_pricing)** — Deliveroo Orders API webhook + Jupyter notebooks measuring the revenue impact of dynamic pricing.
+- 🌿 **[Minty](https://github.com/zalatar242/minty)** · Privacy-first personal CRM. Unifies WhatsApp, Gmail, LinkedIn, Telegram, and SMS into one searchable local database. Self-hosted; nothing leaves your machine.
+- 💳 **[Folio](https://github.com/zalatar242/folio)** · 0% interest credit line backed by your stocks. Neobank-style UX with real-time collar pricing.
+- 🧮 **[LLM Accounting](https://github.com/zalatar242/llm-accounting)** · Per-customer, per-feature, per-workflow cost tracking across OpenAI, Anthropic, Google, and OpenRouter.
+- 🤖 **[HumanOS](https://github.com/zalatar242/HumanOS)** · Marketplace where humans earn by contributing POV training data for humanoid robotics.
+- 🛡️ **[CoverMax](https://github.com/zalatar242/CoverMax-DeFi)** · Tranched insurance protocol with senior/junior risk allocation.
+- 📊 **[Dynamic Pricing](https://github.com/zalatar242/dynamic_pricing)** · Deliveroo Orders API webhook plus Jupyter notebooks measuring the revenue impact of dynamic pricing.
 
 ### Closed Source
 
-- 🚚 **TruckShield** — AI-powered trucking insurance policy analysis; upload a PDF, get plain-English exclusion breakdowns and side-by-side quote comparisons
-- 🎯 **dealflow** — EU company sourcing and cold outreach pipeline
-- ⚖️ **dot-hedge-bot** — Automated hedging bot that converts vested assets to USD stablecoin daily with optional derivatives protection
-- 💼 **AnalystOS** — Workflow automation for investment operations teams
+- 🚚 **TruckShield** · AI-powered trucking insurance policy analysis; upload a PDF, get plain-English exclusion breakdowns and side-by-side quote comparisons.
+- 🎯 **dealflow** · EU company sourcing and cold outreach pipeline.
+- ⚖️ **dot-hedge-bot** · Automated hedging bot that converts vested assets to USD stablecoin daily with optional derivatives protection.
+- 💼 **AnalystOS** · Workflow automation for investment operations teams.
 
 ## GitHub Activity
 
