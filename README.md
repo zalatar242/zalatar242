@@ -21,6 +21,9 @@ Humans earn passive income uploading POV videos of day-to-day actions; humanoid 
 **[CoverMax](https://github.com/zalatar242/CoverMax-DeFi)** &nbsp;·&nbsp; Tranched DeFi insurance protocol
 Risk-stratified coverage with senior/junior tranches.
 
+**[Dynamic Pricing](https://github.com/zalatar242/dynamic_pricing)** &nbsp;·&nbsp; Deliveroo Orders API webhook + pricing analysis
+Order management + Jupyter notebooks measuring the impact of dynamic pricing on delivery orders.
+
 ---
 
 #### Stack
